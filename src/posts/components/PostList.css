@@ -1,0 +1,19 @@
+.post img {
+   width: 60%;
+   height: 320px;
+   border-radius: 3px;
+   border: 2px solid #e0e0e0;
+   border-radius: 5px;
+}
+
+.main-not-found {
+   text-align: center;
+}
+
+.post h2 {
+   color: #212121;
+}
+
+.post h3 {
+   color: #424242;
+}
